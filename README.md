@@ -38,3 +38,9 @@ Ce projet implémente une solution complète de stockage local pour Android, cou
 - AndroidX AppCompat
 - AndroidX Security Crypto (`1.1.0-alpha06`)
 - Google Material Design
+
+
+
+
+https://github.com/user-attachments/assets/dd3dbe2c-93e6-4396-ad04-20bfa403b0af
+
