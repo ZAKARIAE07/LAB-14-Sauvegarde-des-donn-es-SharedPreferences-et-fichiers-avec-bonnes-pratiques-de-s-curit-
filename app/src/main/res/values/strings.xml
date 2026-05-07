@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab14mob</string>
+    <string name="error_token_encryption">Erreur chiffrement token : %1$s</string>
+    <string name="save_prefs_success">Sauvegarde prefs terminée.\nname=%1$s\nlang=%2$s\ntheme=%3$s\ntoken: stocké chiffré si non vide (non affiché).</string>
+    <string name="load_prefs_success">Chargement prefs terminé.\nname=%1$s\nlang=%2$s\ntheme=%3$s\ntokenLength=%4$d</string>
+    <string name="error_save_json">Erreur sauvegarde JSON : %1$s</string>
+    <string name="save_json_success">Sauvegarde fichier JSON terminée. students=%1$d</string>
+    <string name="load_json_success_header">Chargement fichier JSON terminé.\nnote=%1$s\nstudents=%2$d\n</string>
+    <string name="student_item_format"> - id=%1$d, name=%2$s, age=%3$d\n</string>
+    <string name="clear_success">Nettoyage terminé.\nprefs: clear()\nsecure_prefs: clear()\nstudents.json: delete\nnote.txt: delete\ncache purgé: %1$d fichier(s)</string>
+    <string name="note_absent">(note.txt absent)</string>
+    <string name="btn_export_external">Exporter vers stockage externe</string>
+    <string name="btn_load_external">Charger depuis stockage externe</string>
+    <string name="export_external_success">Fichier exporté vers :\n%1$s</string>
+    <string name="load_external_success">Fichier externe chargé :\n%1$s</string>
+    <string name="error_external">Erreur stockage externe : %1$s</string>
+    <string name="external_file_absent">(Fichier externe absent)</string>
+</resources>
